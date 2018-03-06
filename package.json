@@ -1,0 +1,19 @@
+{
+  "name": "js-ts-resources",
+  "version": "0.0.1",
+  "description": "Shared Javscript and Typescript resources for Figure projects",
+  "main": "tsconfig.base.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FigureWorks/js-ts-resources.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FigureWorks/js-ts-resources/issues"
+  },
+  "homepage": "https://github.com/FigureWorks/js-ts-resources#readme"
+}
