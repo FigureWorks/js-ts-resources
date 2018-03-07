@@ -6,7 +6,7 @@ The fact that a configuration option is shared by multiple projects is not, in i
 
 # Installation
 
-`yarn add git+ssh://git@github.com:FigureWorks/js-ts-resources.git#master`
+`yarn add FigureWorks/js-ts-resources.git#master`
 
 # Integration
 
