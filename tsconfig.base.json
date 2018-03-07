@@ -2,7 +2,6 @@
     "compilerOptions": {
         "sourceMap": true,
         "strict": true,
-        "esModuleInterop": true,
         "pretty": true
     }
 }
