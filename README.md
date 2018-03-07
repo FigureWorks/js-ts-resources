@@ -1,6 +1,9 @@
 Shared configurations for Javascript and Typescript development environments.
 Linters, code formatters, compilers, etc.
 
+*Note:* This repository is the home for _blessed_ configuration options.
+The fact that a configuration option is shared by multiple projects is not, in itself, enough reason to include it here. It should be an option we agree is universally good. For example, aim for maximum strictness here; projects may override certain options to loosen strictness, with the goal of eventually removing these overrides.
+
 # Installation
 
 `yarn add git+ssh://git@github.com:FigureWorks/js-ts-resources.git#master`
