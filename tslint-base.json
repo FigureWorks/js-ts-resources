@@ -1,6 +1,7 @@
 {
     "extends": ["tslint:recommended"],
     "rules": {
-        "no-null-keyword": true
+        "no-null-keyword": true,
+        "trailing-comma": false
     }
 }
